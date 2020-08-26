@@ -51,15 +51,21 @@ a {
 li {
   float: left;
   margin-right: 15px;
-  display: grid; }
+  display: grid;
+  box-shadow: 0 0 10px black; }
 
 .sectioninfo {
   background: white;
   width: 100%;
-  height: 450px;
+  height: auto;
+  max-height: 700px;
   opacity: 0.7;
   display: grid;
-  overflow: hidden; }
+  overflow: visible;
+  margin-left: 10px;
+  margin-right: 10px;
+  box-shadow: 0 -12px 4px -4px rgba(0, 0, 0, 0.2);
+  margin-top: 1px; }
 
 #grid {
   display: grid;

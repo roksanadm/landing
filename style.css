@@ -121,7 +121,8 @@ button {
   display: block;
   position: relative;
   border: 1px solid white;
-  margin: 0 auto; }
+  margin: 0 auto;
+  margin-bottom: 10px; }
 
 .button :hover {
   background-color: black; }

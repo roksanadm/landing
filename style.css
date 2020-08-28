@@ -88,7 +88,8 @@ h3 {
   font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif; }
 
 p {
-  font-family: "Dancing Script", cursive; }
+  font-family: "Dancing Script", cursive;
+  margin-bottom: 50px; }
 
 .sectioninfo2 {
   background: #bec2c2;

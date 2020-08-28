@@ -163,6 +163,10 @@ button {
   grid-template-rows: 1fr;
   grid-template-columns: 1fr 1fr; }
 
+.col-xs-12 {
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr; }
+
 .img-fluid3 {
   height: 300px;
   width: 200px;
